@@ -1,0 +1,93 @@
+<resources>
+
+    <string name="app_name" translatable="false">Arabic Ringtones</string>
+
+    <string name="ok">@android:string/ok</string>
+    <string name="off">Off</string>
+    <string name="song">Song</string>
+    <string name="dark">Dark</string>
+    <string name="edit">Edit</string>
+    <string name="deny">Deny</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="allow">Allow</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="album">Album</string>
+    <string name="n_sec">%1$s Sec</string>
+    <string name="added">Added</string>
+    <string name="delete">Delete</string>
+    <string name="artist">Artist</string>
+    <string name="cancel">Cancel</string>
+    <string name="n_song">%1$s Song</string>
+    <string name="sort_by">Sort by</string>
+    <string name="setting">Setting</string>
+    <string name="unknown">Unknown</string>
+    <string name="x_album">Album: %1$s</string>
+    <string name="x_artist">Artist: %1$s</string>
+    <string name="favorite">Favorite</string>
+    <string name="playlist">Playlist</string>
+    <string name="language">Language</string>
+    <string name="add_song">Add song</string>
+    <string name="n_second">%1$s Second</string>
+    <string name="play_all">Play all</string>
+    <string name="play_song">Play song</string>
+    <string name="song_name">Song name</string>
+    <string name="set_timer">Set timer</string>
+    <string name="date_added">Date added</string>
+    <string name="album_name">Album name</string>
+    <string name="scan_options">Scan options</string>
+    <string name="my_playlist">My playlist</string>
+    <string name="change_name">Change name</string>
+    <string name="artist_name">Artist name</string>
+    <string name="just_played">Just played</string>
+    <string name="now_playing">Now playing</string>
+    <string name="timer_is_set">Timer is set</string>
+    <string name="media_access">Media access</string>
+    <string name="new_playlist">New playlist</string>
+    <string name="dynamic_dark">Dynamic dark</string>
+    <string name="sixty_minute">60 mnt</string>
+    <string name="thirty_minute">30 mnt</string>
+    <string name="ninety_minute">90 mnt</string>
+    <string name="dynamic_light">Dynamic light</string>
+    <string name="playlist_name">Playlist name</string>
+    <string name="timer_disabled">Timer disabled</string>
+    <string name="rename_playlist">Rename playlist</string>
+    <string name="number_of_songs">Number of songs</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="language_summary">Select the language you use</string>
+    <string name="added_to_playlist">Added to playlist</string>
+    <string name="add_favorite_song">Add favorite song</string>
+    <string name="search_placeholder">Song, artist, or album</string>
+    <string name="enter_playlist_name">Enter playlist name</string>
+    <string name="select_your_language">Select your language</string>
+    <string name="skip_forward_or_backward">Skip forward/backward</string>
+    <string name="forward_backward_duration">Forward/Backward duration</string>
+    <string name="permission_denied_by_user">Permission denied by user</string>
+    <string name="stop_audio_within_n_minutes">Stop audio within %1$s minutes</string>
+
+    <string name="permission_denied_permanently_message">Permission denied, go to settings to allow it</string>
+    <string name="rate">Rate Us</string>
+    <string name="privacy">Privacy Policy</string>
+
+
+    <string name="success_ringtone">Ringtone set Success</string>
+    <string name="success_alarm">Set Success</string>
+    <string name="Ringtone">Ringtone</string>
+    <string name="Alarm">Alarm</string>
+    <string name="Notifications">Notification</string>
+
+    <string name="store_link" translatable="false">https://play.google.com/store/apps/developer?id=Flamant150</string>
+    <string name="privacy_url" translatable="false">https://sites.google.com/view/privacypolicy-arabicringtones/</string>
+
+    <string name="admob_id" translatable="false">ca-app-pub-3940256099942544~3347511713 </string>
+    <string name="ad_id_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_id_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_open_app" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="share">Share App</string>
+    <string name="more_apps">More Apps</string>
+    <string name="send_to">Enjoy this app :</string>
+
+
+
+</resources>
